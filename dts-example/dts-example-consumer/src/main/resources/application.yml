@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: dts-consumer
+server:
+  port: 8080
+saluki:
+  grpc:
+    registryAddress: localhost:8500
+    referenceDefinition: META-INF/reference.json
