@@ -17,6 +17,10 @@
 
 # 架构方案
   请查看根目录下的架构图
+  ![](architecture.png)
+  
+  流程图
+  ![](flow.png)
 
 # Compile
 ```
@@ -74,3 +78,5 @@
 
 1. 执行script/server.sql脚本
 2. 启动事务协调器服务端
+
+
