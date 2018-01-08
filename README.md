@@ -16,11 +16,12 @@
 * Dts Resource：资源，包括数据库、MQ
 
 # 架构方案
-  请查看根目录下的架构图
-  ![](architecture.png)
+  * 请查看根目录下的架构图
   
-  流程图
-  ![](flow.png)
+  ![架构图](architecture.png)
+  
+  * 流程图
+  ![流程图](flow.png)
 
 # Compile
 ```
